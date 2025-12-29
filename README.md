@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamscodebox
 
-I build clean, scalable systems with a focus on developer experience, automation, and rock‑solid TypeScript.  
-My happy place is somewhere between **monorepos, Docker, DevOps workflows, and beautifully structured code**.
+I design scalable systems that feel great to work in — fast, automated, and powered by TypeScript.
+You’ll usually find me deep in monorepos, Docker setups, DevOps pipelines, and the kind of architecture that makes future‑me smile.
 
 ### 🧠 What I Love
 - TypeScript everywhere  
