@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @williamscodebox
 
-I design scalable systems that feel great to work in — fast, automated, and powered by TypeScript.
-You’ll usually find me deep in monorepos, Docker setups, DevOps pipelines, and the kind of architecture that makes future‑me smile.
+I design scalable systems that feel great to work in — fast, automated, and powered by the kind of architecture that makes future‑me smile.
 
 ### 🧠 What I Love
 - TypeScript everywhere  
