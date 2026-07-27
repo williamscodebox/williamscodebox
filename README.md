@@ -5,7 +5,7 @@ I design scalable systems that feel great to work in — fast, automated, and po
 ### 🧠 What I Love
 - TypeScript everywhere  
 - Clean architecture and maintainable workflows  
-- Dockerized environments that “just work”  
+- Dockerized environments 
 - Cross‑platform scripting (PowerShell, Bash)  
 - Debugging gnarly issues until everything is ✨ smooth ✨  
 
@@ -19,7 +19,8 @@ I design scalable systems that feel great to work in — fast, automated, and po
 ### 📚 Currently Learning
 - Advanced monorepo patterns  
 - Distributed systems & microservices  
-- Production‑grade observability and logging  
+- Production‑grade observability and logging
+- AI Engineering
 
 ### 🤝 Let’s Build Something
 I’m always exploring new ideas, refining workflows, and pushing for cleaner, more elegant solutions.  
